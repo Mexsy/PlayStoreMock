@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#143db8</item>
+        <item name="colorPrimaryDark">#030c70</item>
+        <item name="colorAccent">#d0231e</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">#143db8</item>
+        <item name="colorPrimaryDark">#030c70</item>
+        <item name="colorAccent">#d0231e</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.ImgButton" parent="Widget.AppCompat.ImageButton">
+        <item name="colorButtonNormal">@color/AliceBlue</item>
+    </style>
+
+    <style name="AppTheme.ImgButton2" parent="Widget.AppCompat.ImageButton">
+        <item name="colorButtonNormal">@color/darkMaterial</item>
+    </style>
+
+    <style name="AppTheme.ImgButton3" parent="Widget.AppCompat.ImageButton">
+        <item name="colorButtonNormal">#80000000</item>
+    </style>
+
+    <style name="AppTheme.ImgButton4" parent="Widget.AppCompat.ImageButton">
+        <item name="colorButtonNormal">#143db8</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#143db8</item>
+        <item name="colorPrimaryDark">#030c70</item>
+        <item name="colorAccent">#d0231e</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

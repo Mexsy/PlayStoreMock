@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469046123642",
+    "firebase_url": "https://managment-f5846.firebaseio.com",
+    "project_id": "managment-f5846",
+    "storage_bucket": "managment-f5846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469046123642:android:612c9a7cae695e6d",
+        "android_client_info": {
+          "package_name": "youth.electicsynery.com.managment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469046123642-q4n20jk2tashg0cj9r5pvbu3c1vsiibi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "youth.electicsynery.com.managment",
+            "certificate_hash": "4b022b279163907b6656e71828981509e5c6e476"
+          }
+        },
+        {
+          "client_id": "469046123642-9j8hu2qfl7hjmhjo31ru2mt4f92qcjq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Cwc_MQ5ULwMqhw-NoShImgakDjhAzlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469046123642-9j8hu2qfl7hjmhjo31ru2mt4f92qcjq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

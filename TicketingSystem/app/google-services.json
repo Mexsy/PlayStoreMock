@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578495963062",
+    "firebase_url": "https://ticketingsystem-bd9ca.firebaseio.com",
+    "project_id": "ticketingsystem-bd9ca",
+    "storage_bucket": "ticketingsystem-bd9ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578495963062:android:43e2c27f38e05d86",
+        "android_client_info": {
+          "package_name": "electicsynergic.mexsycorp.com.ticketingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578495963062-g0nvb7k3tm0rbt4chac0a87lk4stpo0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "electicsynergic.mexsycorp.com.ticketingsystem",
+            "certificate_hash": "4b022b279163907b6656e71828981509e5c6e476"
+          }
+        },
+        {
+          "client_id": "578495963062-83hk7kc66krabhesgb9a2fnf9rlarnib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATguDR6hRAChQQcGD3EptS4sOCq3ReUjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578495963062-83hk7kc66krabhesgb9a2fnf9rlarnib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
